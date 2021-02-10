@@ -1,0 +1,5 @@
+flask
+flas_sqlalchemy
+marshmallow
+marshmallow_sqlalchemy
+
